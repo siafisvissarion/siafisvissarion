@@ -16,3 +16,10 @@
 - Ο πόρος έχει δημιουργηθεί με αδεια Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 - Ενσωματώνεται σε οποιαδήποτε σελίδα μέσω του iframe:
 - <iframe src="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1425039" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://content.e-me.edu.gr/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+- Ψηφιακός Πόρος Νο.3: Προτάσεις Αντιστοίχισης
+- Υπερσύνδεσμος Πρόσβασης στο OER:
+- https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1425401
+- Παρακαλώ δείτε τα *.h5p αρχεία που έχω ανεβάσει στο repository (caa462b83c3fdbab7b6aa006badc8578-1425401.h5p)- Το link που παρατίθεται δεν απαιτεί log in στην πλατφόρμα e-me, καθώς τρέχει με copy paste σε οποιονδήποτε browser.
+- Ο πόρος έχει δημιουργηθεί με αδεια Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+- Ενσωματώνεται σε οποιαδήποτε σελίδα μέσω του iframe:
+- <iframe src="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1425401" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://content.e-me.edu.gr/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
